@@ -2,25 +2,26 @@
 
 This document is a guideline for project manager who interacts with a localization agency that is already vetted.
 
-## Make it official
+## Ask for rate sheet
 
-A series of activities need to happen before an l10n project can start. Unless there are changes in the document, this step is done once, and only at the beginning of relationship engagement.
-
-* A signed master service agreement (or MSA) between Mozilla and the vendor. Person signed on Mozilla side could be the PM or PM’s manager. This document shows the conditions that the contract is operated in between the service provider and Mozilla.  Without this agreement, a service can’t start. Here is an example of [MSA](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgSW5Jend3TlpyRlE/view?usp=sharing).
-* Account Payable (or AP) form that contains banking information, billing cycle (monthly, quarterly, or “as soon as”) and payment due terms (within 30 or 45 days); billing email address. Here is an example of [AP form](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgYmN6c0tJc2IwUzA/view?usp=sharing).
-* The rate sheet can be updated annually.  An example of the official [rate sheet](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgTDhoVFBsN3dMc0E/view?usp=sharing) that includes the following but not limited to:
+* Make sure you have received a rate sheet customized for Mozilla needs. This should have been sent as part of the vetting process, and it can be updated annually. An example of the official [rate sheet](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgTDhoVFBsN3dMc0E/view?usp=sharing) that includes the following but not limited to:
   * Word rate for each of the interested locales as in new words, 100% match, fuzzy match for translation, review, proofreading
   * Hourly rate: engineering, QA and testing, PM rate.
   * Minimum charge for a project and the thresholds by number of words per locale.
   * Rush rate.
 
+## Do the initial paperwork
+
+A series of activities need to happen before an l10n project can start. The first step is doing the paperwork to be able to receive quotes for projects and pay bills for requests.
+
+Unless there are changes in the signed document, this step is done once, and only at the beginning of relationship engagement.
+
+* A master service agreement (or MSA) has to be signed between Mozilla and the vendor. The person signing on Mozilla side could be the PM or PM’s manager. This document shows the conditions that the contract is operated in between the service provider and Mozilla. Without this agreement, a service can’t start. Here is an example of [MSA](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgSW5Jend3TlpyRlE/view?usp=sharing).
+* Account Payable (or AP) form that contains banking information, billing cycle (monthly, quarterly, or “as soon as”) and payment due terms (within 30 or 45 days); billing email address. Here is an example of [AP form](https://drive.google.com/a/mozilla.com/file/d/0B7u_NzvpgGcgYmN6c0tJc2IwUzA/view?usp=sharing).
+
+
 PO, or Purchase Order, may or may not be necessary in order to get vendor service. Some teams have ongoing need for l10n service and have a budget set aside annually. This is a good reason to have a PO established. For most projects that are one time need, or sporadic, it’s best to go without a PO, and bill to the serviced department as needed.
 
-## Key contacts and responsibilities
-
-* Account Manager: relationship, escalation of issues; complaints about quality or deadlines.
-* Project Manager: handles day to day operation. Coordinates resources on the agency side; provides estimate of a project’s deadline and cost.
-* Account Payable Manager: sends the bill to Mozilla Account Payable.
 
 ## Set up accounts
 
@@ -88,3 +89,9 @@ After the project is delivered,
 * PM then shares the feedback with agency for rebuttal and further feedback if needed.
 
 At the end of a calendar year, review the vendor working model and quality of paid service. Provide feedback and evaluate if the service should be continued.
+
+# Terminology
+
+* Account Manager: relationship, escalation of issues; complaints about quality or deadlines.
+* Project Manager: handles day to day operation. Coordinates resources on the agency side; provides estimate of a project’s deadline and cost.
+* Account Payable Manager: sends the bill to Mozilla Account Payable.
